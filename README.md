@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm José Filipe Lima
 
-Welcome to my GitHub profile! 🚀  
+### Welcome to my GitHub profile! 🚀  
 
-## 🚧 **Work in Progress**
-
-Stay tuned for updates! 😉
----
+### 🚧 **Work in Progress**, stay tuned for updates! 🚧
