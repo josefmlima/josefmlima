@@ -12,12 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm [José Filipe Lima]
+# 👋 Hi, I'm José Filipe Lima
 
 Welcome to my GitHub profile! 🚀  
-
----
 
 ## 🚧 **Work in Progress**
 
 Stay tuned for updates! 😉
+---
